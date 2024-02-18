@@ -1,0 +1,14 @@
+.footer-icon {
+  margin-right: 10px;
+}
+
+.bg-main-container {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  margin-top: 60px;
+  list-style-type: none;
+  padding-left: 0px;
+}
